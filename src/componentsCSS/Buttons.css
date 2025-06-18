@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+button{
+    margin: 2px;
+    width: 420px;
+    height: 35px;
+    cursor: pointer;
+}
+
+
+button.selected{
+    background-color: #000;
+    color: aliceblue;
+}
+
